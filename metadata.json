@@ -1,0 +1,5 @@
+{
+  "name": "ThermoBatch Renamer",
+  "description": "A batch image processing tool that renames files sequentially based on folder groups and allows manual entry of temperature data.",
+  "requestFramePermissions": []
+}
